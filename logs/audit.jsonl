@@ -1,0 +1,17 @@
+{"ts":"2025-11-10T12:32:33.663Z","auditId":"066974b3-d275-4c8e-9aa4-7fec8b078fa4","query":"Find backend developers with Python and fintech experience","error":"Invalid schema for function 'rerankTool': In context=('properties', 'candidates'), array schema missing items."}
+{"ts":"2025-11-10T12:34:11.222Z","auditId":"1a731153-811c-477b-90cc-552aebeb5f1b","query":"Find backend developers with Python and fintech experience","error":"Invalid schema for function 'rerankTool': In context=('properties', 'candidates'), array schema missing items."}
+{"ts":"2025-11-10T12:34:44.423Z","auditId":"6cd2a135-c4db-468c-808d-c0384fc7eb3f","query":"Find backend developers with Python and fintech experience","error":"Invalid schema for function 'rerankTool': In context=('properties', 'candidates'), array schema missing items."}
+{"ts":"2025-11-10T12:34:51.374Z","auditId":"83cdf308-f41a-41f9-a12d-e3041607d1a3","query":"Find backend developers with Python and fintech experience","error":"Invalid schema for function 'rerankTool': In context=('properties', 'candidates'), array schema missing items."}
+{"ts":"2025-11-10T12:35:54.898Z","auditId":"bd772aa7-8af9-4ec2-a6ba-5894f16f9b12","query":"Find backend developers with Python and fintech experience","error":"Unexpected token 'I', \"It seems t\"... is not valid JSON"}
+{"ts":"2025-11-10T12:39:10.270Z","auditId":"3f2752e6-206c-477a-bb88-5eba0a339cc8","query":"Find backend developers with Python and fintech experience","error":"PII leak detected"}
+{"ts":"2025-11-10T12:49:07.732Z","auditId":"9ca95257-5fe7-4db0-b6f8-e0d5c1311047","query":"Find backend developers with Python and fintech experience","error":"PII leak detected"}
+{"ts":"2025-11-10T12:54:21.744Z","auditId":"1ac3fc88-464a-4684-8b2b-235a1ad3cc8f","query":"Find backend developers with Python and fintech experience","error":"Unexpected token 'H', \"Here are t\"... is not valid JSON"}
+{"ts":"2025-11-10T13:02:32.700Z","auditId":"9bde460b-46e7-4ead-ba4f-a126432ec57e","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T13:23:58.002Z","auditId":"cb44c4ee-651c-4742-aa28-0bc573d664fc","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:30:07.678Z","auditId":"78075aa5-e59d-4ce5-aba4-eac235060d9d","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:32:50.819Z","auditId":"40c37c0f-5d51-4f28-a814-6610111c0409","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:35:13.023Z","auditId":"e623e0ef-81d4-4e6b-be89-adc029228fcc","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:48:21.744Z","auditId":"5b123dbd-0340-447a-bf95-8143f7cbca61","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:51:42.299Z","auditId":"a1cf8059-58b4-4607-978e-5c1f9966c857","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:53:57.231Z","auditId":"c7763aa7-df64-4170-a64f-46b98256defa","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
+{"ts":"2025-11-10T15:59:00.061Z","auditId":"b29dd3dc-87f5-4983-8a3e-cfb8b56c0d7d","query":"Find backend developers with Python and fintech experience","error":"Invalid JSON from LLM"}
